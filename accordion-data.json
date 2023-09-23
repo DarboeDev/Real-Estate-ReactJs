@@ -1,0 +1,24 @@
+[
+    {
+        "id": "1",
+        "title": "Most affordable prices on the market",
+        "detail": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum ipsum libero distinctio fugiat. Repudiandae iure accusamus, qui odit quis ex dolores, laboriosam quos, quo aliquam harum sed aperiam doloribus nemo?Doloremque, ea expedita voluptate nemo consequatur libero quis? Sequi numquam quisquam blanditiis quibusdam consectetur ut assumenda voluptatem soluta, corrupti quae in aperiam adipisci repellendus ipsam temporibus officia explicabo ipsum dolor!",
+        "image": "/src/assets/r3.png", 
+        "show": false
+    },
+    {
+        "id": "2",
+        "title": "Prevent unstable prices",
+        "detail": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum ipsum libero distinctio fugiat. Repudiandae iure accusamus, qui odit quis ex dolores, laboriosam quos, quo aliquam harum sed aperiam doloribus nemo?Doloremque, ea expedita voluptate nemo consequatur libero quis? Sequi numquam quisquam blanditiis quibusdam consectetur ut assumenda voluptatem soluta, corrupti quae in aperiam adipisci repellendus ipsam temporibus officia explicabo ipsum dolor!",
+        "image": "/src/assets/r3.png",
+        "show": false
+    },
+    {
+      "id": "3",
+      "title": "Best friendly location to stay",
+      "detail": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum ipsum libero distinctio fugiat. Repudiandae iure accusamus, qui odit quis ex dolores, laboriosam quos, quo aliquam harum sed aperiam doloribus nemo?Doloremque, ea expedita voluptate nemo consequatur libero quis? Sequi numquam quisquam blanditiis quibusdam consectetur ut assumenda voluptatem soluta, corrupti quae in aperiam adipisci repellendus ipsam temporibus officia explicabo ipsum dolor!",
+      "image": "/src/assets/r3.png",
+      "show": false
+    }
+  ]
+  

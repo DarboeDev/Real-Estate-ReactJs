@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Brusubi Garden",
+    "price": "1,470,000",
+    "detail": "Brusubi Garden Street, Brusubi. WCR, The Gambia",
+    "image": "/src/assets/r1.png"
+  },
+  {
+    "id": "2",
+    "name": "Banjul City",
+    "price": "660,353",
+    "detail": "Banjul City Street, Banjul. WCR, The Gambia",
+    "image": "/src/assets/r2.png"
+  },
+  {
+    "id": "3",
+    "name": "Brusubi Height",
+    "price": "3,500,000",
+    "detail": "Brusubi Height Street, Brusubi. WCR, The Gambia",
+    "image": "/src/assets/r3.png"
+  },
+  {
+    "id": "4",
+    "name": "Sanyang Priva",
+    "price": "4,000,000",
+    "detail": "Sanyang Priva Street, Sanyang. WCR, The Gambia",
+    "image": "/src/assets/r1.png"
+  },
+  {
+    "id": "5",
+    "name": "Jollof Garden City",
+    "price": "1,000,000",
+    "detail": "Jollof Garden Borough, Brikama. WCR, The Gambia",
+    "image": "/src/assets/r2.png"
+  },
+  {
+    "id": "6",
+    "name": "Tujereng Villa",
+    "price": "3,000,000",
+    "detail": "Tujereng Villa Estate, Tujereng. WCR, The Gambia",
+    "image": "/src/assets/r3.png"
+  }
+]
